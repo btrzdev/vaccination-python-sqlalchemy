@@ -1,4 +1,9 @@
 .vscode
 **__pycache__
+<<<<<<< HEAD
 venv
 .env
+=======
+.env
+venv
+>>>>>>> 7cbfeed7fe015fae7bfc2892767cb6b93dc0e0bc
